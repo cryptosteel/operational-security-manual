@@ -168,3 +168,15 @@ Easily identifiable both visually and tactilely, and made for easy searching.
 
 EASY HOW-TO VIDEOS
 For more information, including how-to videos, please visit www.cryptosteel.com
+
+### CRYPTOSTEEL PRIVACY GUIDE EXPLAINED BY WASABI
+
+**MY PRIVACY, BITCOIN AND ME**
+
+In the digital age, privacy is hard. Privacy is a choice about what information to share about yourself. As an open monetary network, all bitcoin transactions are publicly visible to all. Maintaining financial privacy on bitcoin can be hard, but you can protect it using the right wallet. 
+
+**PRIVACY = SECURITY**
+
+You should generate your seed on a bitcoin wallet that does not leak personal information. A bitcoin wallet should be free and open source, with as many reviews from developers and users as possible. It should handle balance queries in a private way, without leaking your addresses and transaction history to third parties. Your wallet should also be integrated with an anonymity network such as Tor, which protects your IP address from being collected.
+
+We recommend using Wasabi Wallet. It is compatible with most hardware devices and has a built-in coinjoin feature. A coinjoin is a collaborative bitcoin transaction to hide your transaction history from the public and reclaim your privacy on bitcoin.
